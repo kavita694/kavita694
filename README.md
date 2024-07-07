@@ -1,5 +1,5 @@
 Hi there! 👋
-I'm Kavita Jadhav, a third-year Computer Engineering student passionate about technology and its applications. Here's a little about me:
+I'm Kavita Jadhav, Computer Engineering student passionate about technology and its applications. Here's a little about me:
 
 👀 I'm interested in exploring various domains within computer engineering, including software development, artificial intelligence, cybersecurity, and data science.
 🌱 Currently, I'm diving deep into web development, enhancing my skills in web development to create dynamic websites.
